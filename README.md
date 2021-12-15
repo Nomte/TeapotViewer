@@ -9,6 +9,8 @@ Components are:
 - Lipo batt 3.7v (any will do the job)
 - [Oled display I2C 128x64 px](https://es.aliexpress.com/item/32920071528.html?spm=a2g0o.productlist.0.0.23615b7fkqiD2X&algo_pvid=60d60d66-2e3e-4dd7-929f-71776557c560&algo_exp_id=60d60d66-2e3e-4dd7-929f-71776557c560-6&pdp_ext_f=%7B%22sku_id%22%3A%2210000001191142999%22%7D)
 
+I still need to add the scheme, but it is rather simple. As seen in the code, the SCL=Pin(22), SDA=Pin(21).
+
 ![Photo00](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154640.jpg?raw=true)
 ![Photo01](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154624.jpg?raw=true)
 ![Photo02](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154653.jpg?raw=true)
