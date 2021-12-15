@@ -8,3 +8,7 @@ Components are:
 - [Lipo charger 18650 TP4056](https://es.aliexpress.com/item/32930640893.html?spm=a2g0o.detail.1000014.6.4c265368KqUrRJ&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.213724.0&scm_id=1007.33416.213724.0&scm-url=1007.33416.213724.0&pvid=e3d4557d-a5e6-4d95-8fef-3338abfc6276&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.213724.0,pvid:e3d4557d-a5e6-4d95-8fef-3338abfc6276,tpp_buckets:668%232846%238112%231997&pdp_ext_f=%7B%22sceneId%22:%2223416%22,%22sku_id%22:%2212000021578610071%22%7D&compareFields=formatted_price:%E2%82%AC%201,57;itemId:32930640893;freight_formatted_price:null;source:recommend-ump;is_freeshipping:null;trade_order:2363)
 - Lipo batt 3.7v (any will do the job)
 - [Oled display I2C 128x64 px](https://es.aliexpress.com/item/32920071528.html?spm=a2g0o.productlist.0.0.23615b7fkqiD2X&algo_pvid=60d60d66-2e3e-4dd7-929f-71776557c560&algo_exp_id=60d60d66-2e3e-4dd7-929f-71776557c560-6&pdp_ext_f=%7B%22sku_id%22%3A%2210000001191142999%22%7D)
+
+![Photo00](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154640.jpg?raw=true)
+![Photo01](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154624.jpg?raw=true)
+![Photo02](https://github.com/Nomte/TeapotViewer/blob/main/IMG_20210228_154653.jpg?raw=true)
